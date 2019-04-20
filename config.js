@@ -8,3 +8,4 @@ module.exports = {
     GOOGLE_CLIENT_EMAIL: '',
     GOOGLE_PRIVATE_KEY: ''
 };
+// go to dialogflow and then go to settings there click on service account link and create a app key . it will download the required file so that you have above information
